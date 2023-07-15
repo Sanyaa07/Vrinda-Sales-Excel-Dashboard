@@ -22,6 +22,4 @@ Insights:
 Conclusion:
 Target women customers of age group (30-49 yrs.) living in Maharashtra, Karnataka & Uttar Pradesh by showing ads/offer/coupons available on Amazon, Flipkart & Myntra 
 
-[Vrinda Sales Dashboard Presentation .pdf](https://github.com/Sanyaa07/Vrinda-Sales-Excel-Dashboard/files/12062010/Vrinda.Sales.Dashboard.Presentation.pdf)
 
-<img width="1440" alt="Screenshot 2023-06-17 at 11 53 36 PM" src="https://github.com/Sanyaa07/Vrinda-Sales-Excel-Dashboard/assets/139617241/1dc9c8d1-9beb-4fc3-b669-e302b8fc9c3b">
